@@ -1,5 +1,7 @@
 package OwnExceptionExample;
 
+// Class example that implements own exception class that I made.
+@SuppressWarnings("ConstantValue")
 public class UnCheckedException {
     public static void main(String[] args) {
         int number1 = 1;
